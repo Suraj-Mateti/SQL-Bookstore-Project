@@ -70,4 +70,4 @@ This project is for **educational purposes** only. Feel free to use and modify.
 ---
 
 👨‍💻 **Author:** Suraj Mateti  
-🔗 GitHub: [Shivam-Dave](https://github.com/Shivam-Dave)
+🔗 GitHub: [Suraj-Mateti](https://github.com/Suraj-Mateti)
